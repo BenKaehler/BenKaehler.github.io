@@ -9,7 +9,7 @@ googleAnalytics = ""  # add your tracking id
 [params]
   author = "Ben Kaehler"
   description = "Ben Kaehler's research site."
-  favicon = "" # "favicon.ico"  # path to a .ico to use as favicon
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "© 2021 Ben Kaehler. Built using Hugo and the Researcher theme."
